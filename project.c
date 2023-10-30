@@ -6,7 +6,6 @@ struct student {
     char last[20];
     int roll;
     float cgpa;
-    int id[4];
 };
 
 struct student students[50];
